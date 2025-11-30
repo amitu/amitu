@@ -7,4 +7,4 @@
 - [non maintained: importd - d is for Django - single file django wrapper](https://github.com/amitu/importd)
 - [non maintained: Rust / Elm base full stack web framework](https://github.com/FifthTry/realm)
 
-[LinkedIn: Amit Upadhyay](https://www.linkedin.com/in/amitu/).
+[LinkedIn: Amit Upadhyay](https://www.linkedin.com/in/amitu/). Come say hello to me on my [fastn discord server](https://fastn.com/discord/).
